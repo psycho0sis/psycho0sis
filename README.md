@@ -1,4 +1,5 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/79661554/177051248-27d3798f-e355-4ccb-8dd5-7df9715698ea.png)
+
 
 <!--
 **psycho0sis/psycho0sis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
