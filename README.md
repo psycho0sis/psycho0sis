@@ -1,10 +1,10 @@
-![image](https://user-images.githubusercontent.com/79661554/177051248-27d3798f-e355-4ccb-8dd5-7df9715698ea.png)
+![image](https://www.codewars.com/users/psycho0sis/badges/large)
 
 
 <!--
 **psycho0sis/psycho0sis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
